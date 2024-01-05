@@ -19,7 +19,7 @@ We relate a number to a selection
 
 # Results
 
-Finally at the end of the code we list out each possible move match, print if the player wins, loses, or ties wiht the computer's choice. Then it adds to the score. 
+Finally at the end of the code we list out each possible move match, print if the player wins, loses, or ties with the computer's choice. Then it adds to the score. 
 
 
 # Credits
